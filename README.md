@@ -1,2 +1,2 @@
 # n_chrome_extension
-PCのZANE 上でテキストをブラウザの横幅いっぱいに広げるための chrome 拡張
+PC でのN予備校教材教材のテキストをブラウザの縦横幅いっぱいに広げるための chrome 拡張
